@@ -1,3 +1,4 @@
+.....
 # Introduction
 
 The repository contains a web app to manage a pet store. The following
